@@ -21,7 +21,14 @@ public class Tema2ejercicio12 {
     b.anotarCanasta('L', 1);
     b.anotarCanasta('L', 1);
     b.anotarCanasta('V', 2);
-   
+   System.out.println(b);
+        System.out.println("El equipo local es : " +b.getNombreLocal());
+        System.out.println("El equipo visitante es : " +b.getNombreVisitante());
+        System.out.println("Los puntos de estudiantes son: " +b.getPuntosLocal());
+        System.out.println("Los puntos de CB Granada son: " +b.getPuntosVisitante());
+        System.out.println("El equipo ganador es: " +b.getNombreEquipoGanador());
+        System.out.println("El equipo ganador es: " +b.getNombreEquipoPerdedor());
+
     
     
     
