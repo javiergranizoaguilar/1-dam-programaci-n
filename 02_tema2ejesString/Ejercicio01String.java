@@ -15,8 +15,10 @@ public class Ejercicio01String {
         // TODO code application logic here
     System.out.println("dame la frase");
         String a=new Scanner(System.in).nextLine();
-        String b =a.trim();
-    System.out.println(b);
+        String b=a.trim();
+        int d=a.indexOf(b);
+        String e=a.substring(d);
+    System.out.println(e);
     }
     
 }
