@@ -16,29 +16,29 @@ public class Tema2ejercicio25 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("dame la frase");
-    String a=new Scanner(System.in).nextLine();
-    System.out.println("dame la otra frase");
-    String b=new Scanner(System.in).nextLine();
-    PrintWriter c =null;
-    try{
-    PrintWriter d=new PrintWriter("C:/Users/javie/OneDrive/Escritorio/Frases.txt");
-    d.println(a);
-    d.println(b);
+        String a=new Scanner(System.in).nextLine();
+        System.out.println("dame la otra frase");
+        String b=new Scanner(System.in).nextLine();
+        PrintWriter c =null;
+        try{
+            PrintWriter d=new PrintWriter("C:/Users/javie/OneDrive/Escritorio/Frases.txt");
+            d.println(a);
+            d.println(b);
     
-    d.close();
+            d.close();
         }
-    catch(FileNotFoundException z){
-    System.out.println("no se a podido realizar");
+        catch(FileNotFoundException z){
+            System.out.println("no se a podido realizar");
         }
-    try{
-    File f= new File("C:/Users/javie/OneDrive/Escritorio/Frases.txt");
-    Scanner e=new Scanner(f);
-    System.out.println(e.nextLine());
-    System.out.println(e.nextLine());
-    }
-    catch(FileNotFoundException z){
-    System.out.println("no se a podido realizar");
-    }
+        try{
+            File f= new File("C:/Users/javie/OneDrive/Escritorio/Frases.txt");
+            Scanner e=new Scanner(f);
+            System.out.println(e.nextLine());
+            System.out.println(e.nextLine());
+        }
+        catch(FileNotFoundException z){
+            System.out.println("no se a podido realizar");
+        }
     }
     
 }
