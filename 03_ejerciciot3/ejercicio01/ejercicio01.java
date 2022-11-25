@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author javier granizo <javiercelia123@gmail.com>
  */
 import bpc.daw.reproductor.*;
-public class Tema3ejercicio1 {
+public class Tema3ejercicio01 {
 
     /**
      * @param args the command line arguments
