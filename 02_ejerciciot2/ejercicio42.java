@@ -13,7 +13,7 @@ public class Tema2ejercicio42 {
      */
     public static void main(String[] args) {
         
-        double a=29+(56-29)*Math.random();
+        double a=29+(65-29)*Math.random();
         
         double b=Math.floor(a);
         
