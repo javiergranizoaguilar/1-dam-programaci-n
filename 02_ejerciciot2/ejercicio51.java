@@ -16,19 +16,19 @@ public class Tema2ejercicio51 {
     public static void main(String[] args) {
         Set mensajes = new HashSet<>();
         
-        mensajes.add("silla");
+        mensajes.add("coca");
         
-        mensajes.add("mesa");
+        mensajes.add("poca");
         
-        mensajes.add("niño");
+        mensajes.add("jonathn");
         
-        mensajes.add("mesa");
+        mensajes.add("jose");
         
-        mensajes.add("casa");
+        mensajes.add("morio");
         
-        mensajes.add("silla");
+        mensajes.add("dorito");
         
-        mensajes.add("lápiz");
+        mensajes.add("calil");
 
         System.out.println(mensajes.size());
 
