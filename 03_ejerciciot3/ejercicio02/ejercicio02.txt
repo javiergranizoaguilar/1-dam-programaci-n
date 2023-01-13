@@ -1,1 +1,17 @@
-
+a) Deve repetirse la parte del salto--------------------------------------------------Determinada
+b) Deve repetirse las flexiones-------------------------------------------------------Indeterminadas
+c) Deve repetirse la introduccion de numeros------------------------------------------Indeterminadas
+d) Deve repetirse 100 vezes “En clase no se habla”------------------------------------Determinada
+e) Deve repetirse la accion de sacar los objetos y mirar el precio--------------------Determinado
+f) Deve repetirse la accion de sonar--------------------------------------------------Determinadas con interrupción
+g) Deve repetirse resolver las ecuaciones---------------------------------------------Determinadas
+h) Deve repetirse la accion de mostrar el texto---------------------------------------Indeterminado
+i) Deve repetirse utilizar la gravadora-----------------------------------------------Indeterminado
+j) Deve repetirse la accion de parar con cada kilometro-------------------------------Determinado
+k) Deve repetirse comprar cosas random------------------------------------------------Indeterminado
+l) Deve repetirse la accions de transferir byte a byte--------------------------------Determinado
+m) Deve repetirse la accion de grabar-------------------------------------------------Determinadas con interrupción
+n) Deve repetirse la accion de sonar--------------------------------------------------Indeterminada
+o) Deve repetirse hasta que se marquen 5 goles----------------------------------------Indeterminada
+p) Deve repetirse la accion de hacer ejercicios---------------------------------------Determinadas con interrupción
+q) Deve repetirse la accion de que cada vez que termina una parte vuelva al menu------Indeterminado
