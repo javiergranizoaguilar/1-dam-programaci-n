@@ -13,10 +13,12 @@ public class Tema03eje05 {
      */
     public static void main(String[] args) {
         
-        System.out.println("Cuantas cazas diarias se te permiten");
-        
         int n=new Scanner(System.in).nextInt();
         int a=0;
+        
+        System.out.println("Cuantas cazas diarias se te permiten");
+        
+        
         while(a<n){
         
             System.out.println("indica las piezas cazadas");
