@@ -11,9 +11,6 @@ import java.util.Scanner;
 import bpc.daw.reproductor.*;
 public class Tema3ejercicio01 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         String[] a={"El hijo de Hernandez","I got no time","Mario Neta",
             "Raison d'etre","Enemy"};
