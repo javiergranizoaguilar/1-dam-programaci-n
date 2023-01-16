@@ -1,5 +1,6 @@
 
 Ejercicio 9: Realiza un programa que calcule de forma aproximada la raíz cuadrada de un
+
 número positivo N introducido desde el teclado usando el Método de Newton-Raphson, que
 consiste en lo siguiente:
 Creamos dos variables de tipo double llamadas S y A, y les damos valor inicial uno.
