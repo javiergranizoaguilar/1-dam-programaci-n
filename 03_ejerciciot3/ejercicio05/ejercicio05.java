@@ -7,10 +7,7 @@ import java.util.Scanner;
  * @author javier granizo <javiercelia123@gmail.com>
  */
 public class Tema03eje05 {
-
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         
         int n=new Scanner(System.in).nextInt();
