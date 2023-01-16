@@ -15,7 +15,7 @@ public class Tema03eje05 {
         
         int n=new Scanner(System.in).nextInt();
         int a=0;
-        
+        int m=0;
         System.out.println("Cuantas cazas diarias se te permiten");
         
         
@@ -23,7 +23,7 @@ public class Tema03eje05 {
         
             System.out.println("indica las piezas cazadas");
             
-            int m=new Scanner(System.in).nextInt();
+            m=new Scanner(System.in).nextInt();
             
             a=m+a;
         
