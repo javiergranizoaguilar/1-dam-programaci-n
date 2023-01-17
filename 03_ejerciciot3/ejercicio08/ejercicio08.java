@@ -10,9 +10,6 @@ import java.util.Scanner;
  */
 public class Tema03eje08 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
 
         StringTokenizer b = null;
