@@ -6,9 +6,6 @@ package tema3.eje03;
  */
 public class Tema3Eje03 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         
         boolean r=true;
