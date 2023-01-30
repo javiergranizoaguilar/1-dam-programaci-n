@@ -1,7 +1,5 @@
 package objeto;
 
-import java.awt.Point;
-
 /**
  *
  * @author javier granizo <javiercelia123@gmail.com>
