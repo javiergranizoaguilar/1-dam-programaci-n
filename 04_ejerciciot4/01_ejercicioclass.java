@@ -18,8 +18,8 @@ public class DNI {
     };
     public DNI(String a){
     
-        letra=a.charAt(8);
-        numero=Integer.parseInt(a.substring(0, 7)); 
+        letra=a.charAt(7);
+        numero=Integer.parseInt(a.substring(0, 6)); 
     };
     
 }
