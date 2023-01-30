@@ -29,7 +29,7 @@ public class cafetera {
         Capacidad_maxima=m;
         Capacidad_actual=a;
         if(m<a){
-            a=m;
+            Capacidad_actual=Capacidad_maxima;
         }
     };
     
