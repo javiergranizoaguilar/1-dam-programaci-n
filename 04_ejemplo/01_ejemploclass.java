@@ -22,6 +22,7 @@ public class cafetera {
     //CON PARAMETROS
     public cafetera(double m){
         Capacidad_maxima=m;
+        Capacidad_actual=m;
     };
     
     public cafetera(double m,double a){
