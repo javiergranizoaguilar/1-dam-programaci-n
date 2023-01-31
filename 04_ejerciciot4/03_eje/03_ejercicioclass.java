@@ -36,5 +36,45 @@ public class Marcador {
         puntosvisitantes=pv;
         fecha= d;
     }
+    public String getnamel(){
+    
+        return nombrelocal;
+    }
+    public String getnamev(){
+    
+        return nombrevisitante;
+    }
+    public int getpuntosl(){
+    
+        return puntoslocal;
+    }
+    public int getpuntosv(){
+    
+        return puntosvisitantes;
+    }
+    public LocalDate getfecha(){
+    
+        return fecha;
+    }
+    public void setnamel(String a){
+    
+        nombrelocal=a;
+    }
+    public void setnamev(String a){
+    
+        nombrevisitante=a;
+    }
+    public void setpuntosl(int a){
+    
+        puntoslocal=a;
+    }
+    public void setpuntosv(int a){
+    
+        puntosvisitantes=a;
+    }
+    public void setnamel(LocalDate a){
+    
+        fecha=a;
+    }
     
 }
