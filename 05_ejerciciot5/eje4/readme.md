@@ -1,4 +1,3 @@
-ejercicio 4
 
 Ejercicio 4 : ¿En qué situaciones pondrías a una propiedad el modificador por defecto?
 
