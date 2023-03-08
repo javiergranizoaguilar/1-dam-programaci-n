@@ -25,7 +25,7 @@ public class Rascacielos extends Edificio {
 
     /**
      *
-     * @return debuellve la altura del racacielos
+     * @return devuelve la altura del racacielos
      */
     public int getAltura() {
 
