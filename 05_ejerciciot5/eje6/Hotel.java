@@ -22,7 +22,7 @@ public class Hotel extends Edificio {
         super(d, np);
         if(m<0){
         
-            throw new IllegalArgumentException(); 
+            throw new IllegalArgumentException("El numero de clientes no puede ser negativo"); 
         }
         
         this.maximo = m;
@@ -36,7 +36,7 @@ public class Hotel extends Edificio {
         
         if(this.clientes.size()>this.maximo){
         
-            throw new IllegalStateException(); 
+            throw new IllegalStateException("Te has pasado del numero de clientes maximos"); 
         }
 
         this.clientes.add(c);
@@ -54,7 +54,7 @@ public class Hotel extends Edificio {
         }
         else{
         
-            throw new NoSuchElementException();
+            throw new NoSuchElementException("No existe ningun cliente con ese nombre");
         }
     }
 
