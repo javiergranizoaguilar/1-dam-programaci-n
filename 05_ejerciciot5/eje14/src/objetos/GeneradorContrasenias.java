@@ -21,7 +21,7 @@ public class GeneradorContrasenias {
     public String generarContrasenia(int longitud) {
         StringBuilder contraseña = new StringBuilder();
         char letra;
-        for (int x = 0; x < longitud; x++) {
+        for (int n = 0; n < longitud; n++) {
             //Este metodo coge un numero del 0 al 2 aleatoriamente
             switch ((int) (Math.random() * (2 - 0 + 1) + 0)) {
 
